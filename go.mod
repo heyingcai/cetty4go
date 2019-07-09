@@ -1,4 +1,4 @@
-module github.com/heyingcai/cetty4go
+module github.com/heyingcai/getty
 
 go 1.12
 
