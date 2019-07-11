@@ -1,7 +1,7 @@
 package handler
 
-import "github.com/heyingcai/cetty4go/core/common"
+import "github.com/heyingcai/getty/core/crawler"
 
 type Context interface {
-	Getty() *common.Getty
+	Getty() *crawler.Getty
 }
